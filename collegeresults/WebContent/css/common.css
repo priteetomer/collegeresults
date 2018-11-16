@@ -1,0 +1,79 @@
+.header{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:18px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+body{
+	background-color:#CCC;
+	padding-top: 20px;
+}
+
+.box{
+	width:800px;
+	border:#CCC solid 1px;
+	margin:auto;
+	margin-top:5px;
+	background-color:#FFF; 
+	border: solid 2px rgb(15,139,240);
+}
+
+.content{
+	padding: 20px;
+}
+
+.clear{
+	clear:both;
+}
+
+
+/*------------------------------ for login box ------------------- */
+.row{
+	margin-bottom:10px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	letter-spacing: 1px;		
+}
+
+.label{
+	width:100px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	float:left;
+}
+.control{
+	width:170px;
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+}
+.controlnomsg{
+	float:left;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+}
+.msg{
+	width:40px;
+	float:left;
+	color:#F00;
+	font-weight:bold;
+	padding-left:10px;
+}
+
+.txt{
+	padding: 3px;
+	width: 160px;
+	border: solid 1px rgb(200,200,200);
+}
+
+.btn{
+	padding: 3px;
+}
+
+select{
+	padding: 3px;
+	border: solid 1px rgb(200,200,200);
+}

@@ -1,0 +1,17 @@
+.labeladd{
+	width:110px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	float:left;
+	margin-right:10px;
+}
+
+.txtadd{
+	padding: 3px;
+	width: 100px;
+	border: solid 1px rgb(200,200,200);
+}
+
+#msgmarks{
+	color: red;
+}

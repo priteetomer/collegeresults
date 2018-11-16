@@ -1,0 +1,32 @@
+.labeladd{
+	width:110px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	float:left;
+}
+
+.labelsub{
+	width:150px;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size:13px;
+	float:left;
+}
+
+.txtadd{
+	padding: 3px;
+	width: 100px;
+	border: solid 1px rgb(200,200,200);
+}
+.txte{
+	padding: 3px;
+	width: 100px;
+	border: solid 1px rgb(200,200,200);
+}
+
+#msgmarks{
+	color: red;
+}
+
+.resultheader{
+	font-weight: bold;
+}
